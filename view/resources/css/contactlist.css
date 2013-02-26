@@ -1,0 +1,25 @@
+/* 
+    Document   : contactlist
+    Created on : 24/02/2013, 10:53:47 PM
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+.contactlist-icon-column-header .x-column-header-text {
+    display: block;
+    height: 22px;
+    width: 16px;
+    background-repeat: no-repeat;
+    background-position: 0 3px;
+}
+.contactlist-icon-column-header .x-column-header-inner {
+    padding: 0 4px;
+}
+
+.contactlist-edit-column-header .x-column-header-text {
+    background-image: url(../img/icons/pencil.png);
+}

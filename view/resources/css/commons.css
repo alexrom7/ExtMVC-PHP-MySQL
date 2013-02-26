@@ -1,0 +1,17 @@
+.grid-empty-message{
+    font-size: 13px;
+    margin: 0 auto;
+    text-align: center;
+    background: 
+        #F7F7CB;
+    padding: 15px;
+    width: 80%;
+    left: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.centered-panel{
+    width: 100%;
+    text-align: center;
+}
